@@ -11,20 +11,20 @@
   - Oliver
 ![This is Oliver, the labradoodle](IMG_7948.JPG)
   - Aslan
-![This is Aslan, his breed is unknown](IMG_5433.HEIC)
+![This is Aslan, his breed is unknown](IMG_7381.JPG)
 
 ### Programming Specifics
 
 ### Favorite Quote
 
-> Alex, do not interrupt me when I'm daydreaming. If a zebra's in the zone, leave him alone. - Marty
-> Life is more manageable when thought of as a scavenger hunt as opposed to a surprise party - Mozzie
+> Alex, do not interrupt me when I'm daydreaming. If a zebra's in the zone, leave him alone. - Marty  
+> Life is more manageable when thought of as a scavenger hunt as opposed to a surprise party - Mozzie  
 > If there were more food and fewer people, this would be a perfect party - Ron Swanson
 
 ### Wish List
 
 - [ ] Digital camera
-- [ ] Hirono or smiski
+- [x] Hirono or smiski
 - [ ] Bracelet
 - [ ] Polaroid film
 - [ ] PC
@@ -39,11 +39,11 @@
 
 ### *Links to the Sections*
 
-Link to User Page: [Link Text](#user-page)
-Link to About Me: [Link Text](#about-me)
-Link to Programming Specifics: [Link Text](#programming-specifics)
-Link to Favorite Quote: [Link Text](#favorite-quote)
-Link to Wish List: [Link Text](#wish-list)
-Link to How I Made This Page: [Link Text](#how-i-made-this-page)
+Link to [User Page](#user-page)
+Link to [About Me](#about-me)
+Link to [Programming Specifics](#programming-specifics)
+Link to [Favorite Quote](#favorite-quote)
+Link to [Wish List](#wish-list)
+Link to [How I Made This Page](#how-i-made-this-page)
 
-[The README.md file has more information](README.md)  
+The [README.md file](README.md) has more information

@@ -13,8 +13,6 @@
   - Aslan
 ![This is Aslan, his breed is unknown](IMG_7381.JPG)
 
-### Programming Specifics
-
 ### Favorite Quote
 
 > Alex, do not interrupt me when I'm daydreaming. If a zebra's in the zone, leave him alone. - Marty  
@@ -43,7 +41,6 @@
 
 Link to [User Page](#user-page)  
 Link to [About Me](#about-me)  
-Link to [Programming Specifics](#programming-specifics)  
 Link to [Favorite Quote](#favorite-quote)  
 Link to [Wish List](#wish-list)  
 Link to [How I Made This Page](#how-i-made-this-page)  

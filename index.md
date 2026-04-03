@@ -18,7 +18,9 @@
 ### Favorite Quote
 
 > Alex, do not interrupt me when I'm daydreaming. If a zebra's in the zone, leave him alone. - Marty  
+
 > Life is more manageable when thought of as a scavenger hunt as opposed to a surprise party - Mozzie  
+
 > If there were more food and fewer people, this would be a perfect party - Ron Swanson
 
 ### Wish List
@@ -39,11 +41,11 @@
 
 ### *Links to the Sections*
 
-Link to [User Page](#user-page)
-Link to [About Me](#about-me)
-Link to [Programming Specifics](#programming-specifics)
-Link to [Favorite Quote](#favorite-quote)
-Link to [Wish List](#wish-list)
-Link to [How I Made This Page](#how-i-made-this-page)
+Link to [User Page](#user-page)  
+Link to [About Me](#about-me)  
+Link to [Programming Specifics](#programming-specifics)  
+Link to [Favorite Quote](#favorite-quote)  
+Link to [Wish List](#wish-list)  
+Link to [How I Made This Page](#how-i-made-this-page)  
 
 The [README.md file](README.md) has more information

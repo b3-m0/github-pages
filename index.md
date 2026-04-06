@@ -7,7 +7,7 @@
 - 2nd year CS major
 - Seventh College
 - 19 years old
-- I have two dogs (insert image here)
+- I have two dogs!
   - Oliver
 ![This is Oliver, the labradoodle](IMG_7948.JPG)
   - Aslan
